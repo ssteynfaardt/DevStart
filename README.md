@@ -1,5 +1,5 @@
-DevStart: Easy add commonly used services to Ubuntu 10.04+
-==========================================================
+DevStart: Easily install commonly used services in Ubuntu 10.04+
+================================================================
 
 **Setup your web server the easy way** DevStart takes care of adding 
 adding all required repositories to `/etc/apt/sources.list` getting valid apt-key's
