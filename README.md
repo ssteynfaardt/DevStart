@@ -7,9 +7,13 @@ and installing the additionally required software, so  you can take care of what
 really matters. Getting your webserver up and running.
 
 **Currently DevStart can install:**
+
 **1.** Zend Server 5.3 CE
+
 **2.** MongoDb
+
 **3.** Memcahe
+
 **4.** Varnish
 
 ## Installation
@@ -26,7 +30,7 @@ To install pow from source, you will need `node >=0.4` and `npm >=1.0`.
     $ git clone git://github.com/ssteynfaardt/DevStart.git && cd DevStart && chmod +x devStart.sh
     $ sudo ./devStart.sh
 
-Then just follow the online instructions:
+### Just follow the onscreen instructions:
 
     Zend Server 5.3 CE: [I]nstall, [U]pdate, [S]kip: 
     MongoDB Server: [I]nstall, [S]kip: 
