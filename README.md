@@ -25,7 +25,6 @@ Downloading just the setupDev.sh file
     $ sudo ./devStart.sh
 
 ### The Git Clone Method
-To install pow from source, you will need `node >=0.4` and `npm >=1.0`.
 
     $ git clone git://github.com/ssteynfaardt/DevStart.git && cd DevStart && chmod +x devStart.sh
     $ sudo ./devStart.sh
